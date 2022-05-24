@@ -1,8 +1,6 @@
-package examNotes;
-
 import java.util.Scanner;
 
-public class Main {
+public class examNotes {
 
     public static void main(String[] args) {
         //Variables

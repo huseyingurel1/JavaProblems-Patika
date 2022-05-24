@@ -1,8 +1,6 @@
-package GroceryStore;
-
 import java.util.Scanner;
 
-public class Main {
+public class GroceryStore {
     public static void main(String[] args) {
 
         double  pear = 2.14 , apple = 3.67, tomato = 1.11, banana=0.95, aubergine=5.00 , kg;

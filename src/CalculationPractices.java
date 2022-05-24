@@ -1,8 +1,6 @@
-package CalculationPractices;
-
 import java.util.Scanner;
 
-public class Main {
+public class CalculationPractices {
     public static void main(String[] args) {
 
         double amount , tax=0.18 , taxAmount ,withTaxAmount;

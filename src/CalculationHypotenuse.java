@@ -1,8 +1,6 @@
-package CalculationHypotenuse;
-
 import java.util.Scanner;
 
-public class Main {
+public class CalculationHypotenuse {
     public static void main(String[] args) {
 
         double a , b , c2 ,c ;
