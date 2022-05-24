@@ -2,17 +2,16 @@ import java.util.Scanner;
 
 public class UserNamePassword {
     public static void main(String[] args) {
-        for(int i=0; i < 1;) {
+        while(1 == 1) {
             Scanner scan = new Scanner(System.in);
             System.out.println("Enter your UserName ");
             String userName = scan.nextLine();
-
             System.out.println("Enter your Password ");
             String password = scan.nextLine();
 
             if (userName.equals("huseyingurel")  && password.equals("huseyingurel123")){
                 System.out.println("Congratulations you are enter this app");
-                i++;
+               break;
             }else if(!userName.equals("huseyingurel")  && !password.equals("huseyingurel123")){
                 System.out.println("Check your username and password");
 
@@ -22,6 +21,7 @@ public class UserNamePassword {
                 System.out.println("No user found with this name");
             }
             System.out.println("************************************************");
+            System.out.println(" Please re-enter your information");
         }
     }
 }
