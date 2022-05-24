@@ -35,10 +35,5 @@ public class examNotes {
         String result=(gpe>=60)? " you passed the exam :) ":" you failed the exam :( ";
         System.out.println(result);
 
-
-
-
-
-
     }
 }
