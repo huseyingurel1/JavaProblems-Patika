@@ -1,6 +1,5 @@
 public class MakeupExam {
     public static void main(String[] args) {
-        //System.out.println("***************** KALDIĞI SÜRECE TEKRAR SINAVA SOK **************************************");
 
         int vize1 = (int) (Math.random() * 101);
         int vize2 = (int) (Math.random() * 101);
