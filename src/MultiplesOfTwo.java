@@ -9,7 +9,6 @@ public class MultiplesOfTwo {
 
         for (int i = 2; i <= number ; i*=2) {
             System.out.println("i = " + i);
-
         }
     }
 }

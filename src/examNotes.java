@@ -5,7 +5,7 @@ public class examNotes {
     public static void main(String[] args) {
         //Variables
 
-        int math, physics,chemistry , turkish, history, music;
+        int math, physics, chemistry , turkish, history, music;
 
         Scanner input = new Scanner(System.in);
 
