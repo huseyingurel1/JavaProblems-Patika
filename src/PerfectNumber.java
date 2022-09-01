@@ -16,10 +16,8 @@ public class PerfectNumber {
 
             }
         }
-        System.out.println("sum = " + sum);
-
         if(sum==number){
-            System.out.println("perfect number");
+            System.out.println(number+ "is perfect number");
         }else{
             System.out.println("Not a perfect number");
         }
