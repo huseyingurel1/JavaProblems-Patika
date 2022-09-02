@@ -19,3 +19,15 @@ G
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
 A
 src/EbobEkok.java,b\d\bd1faaa7c38ee8271e5cc1dac0cb6a07db78f49a
+H
+src/FindMinMaxValue.java,c\9\c9e8e6ca1a8c83f349d02b8080af5a18c71608b3
+A
+src/Pow4and5.java,8\b\8bac6ce828469be0aca09782accc6eaa9b578e13
+F
+src/PerfectNumber.java,c\0\c067c8925359d14434ce40e923d9931f92d40c50
+I
+src/FindPrimeNumbers.java,7\2\72a07d6880ff68db80a54db90ca806912ce1113a
+I
+src/OppositeTriangle.java,5\6\56c0f7f8aa9b32b04ce97166b341d5d07a832db0
+H
+src/DiamondWithStar.java,e\7\e7bc81ffe060cfa53fe105d55c30e55dcd4f0fc1
