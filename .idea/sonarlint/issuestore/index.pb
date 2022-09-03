@@ -31,3 +31,7 @@ I
 src/OppositeTriangle.java,5\6\56c0f7f8aa9b32b04ce97166b341d5d07a832db0
 H
 src/DiamondWithStar.java,e\7\e7bc81ffe060cfa53fe105d55c30e55dcd4f0fc1
+w
+G.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c,6\e\6e9644ddf83ab52f39902ecdbfdf4118285ac40c
+H
+src/PalindromNumber.java,3\9\39011888768507879a329c6823c404d9587cdfb1
