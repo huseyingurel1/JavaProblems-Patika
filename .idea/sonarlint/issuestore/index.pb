@@ -26,8 +26,6 @@ A
 F
 src/PerfectNumber.java,c\0\c067c8925359d14434ce40e923d9931f92d40c50
 I
-src/FindPrimeNumbers.java,7\2\72a07d6880ff68db80a54db90ca806912ce1113a
-I
 src/OppositeTriangle.java,5\6\56c0f7f8aa9b32b04ce97166b341d5d07a832db0
 H
 src/DiamondWithStar.java,e\7\e7bc81ffe060cfa53fe105d55c30e55dcd4f0fc1
