@@ -33,3 +33,7 @@ w
 G.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c,6\e\6e9644ddf83ab52f39902ecdbfdf4118285ac40c
 H
 src/PalindromNumber.java,3\9\39011888768507879a329c6823c404d9587cdfb1
+F
+src/CalculatorPro.java,0\1\010b713f8bbae39599b240bf67fdb3809b5aa5a7
+I
+src/FindPrimeNumbers.java,7\2\72a07d6880ff68db80a54db90ca806912ce1113a
