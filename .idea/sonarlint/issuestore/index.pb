@@ -13,8 +13,6 @@ I
 src/OddNumberDivided.java,7\e\7e265519476fae86a0c803bbbb2683b31e087051
 C
 src/CircleArea.java,1\5\1520c2ec0fc66a99403b00c26b93b064b91aa692
-G
-src/HarmonicNumber.java,c\c\cc57a2918e967aef21e22f0da37f3d2042f8aea9
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
 A
