@@ -45,3 +45,5 @@ P
  src/employeeSalary/Employee.java,c\7\c7d571e029db6c4490307101a6db4e7b9fab9efb
 L
 src/employeeSalary/Main.java,3\e\3e7a0407db483062ad8a2e0f92e0cacfbb1a0b09
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
