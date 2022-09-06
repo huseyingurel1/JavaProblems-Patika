@@ -3,8 +3,6 @@ E
 src/OddNumberSum.java,6\2\621afbf20df5fbf016a33c68ad63898329824c03
 I
 src/ArmstrongNumbers.java,7\c\7cbaf6378accf6ddccd23ed4a5fca9b4ebb12b34
-G
-src/MultiplesOfTwo.java,9\c\9c408cd4c0ceb834d09e706c917e15feaf62469e
 K
 src/FactorialCalculate.java,a\1\a13f0e64ea7ea2c49c0f87266396993048b5b96b
 <
@@ -13,8 +11,6 @@ I
 src/OddNumberDivided.java,7\e\7e265519476fae86a0c803bbbb2683b31e087051
 C
 src/CircleArea.java,1\5\1520c2ec0fc66a99403b00c26b93b064b91aa692
-\
-,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
 A
 src/EbobEkok.java,b\d\bd1faaa7c38ee8271e5cc1dac0cb6a07db78f49a
 H
@@ -29,9 +25,23 @@ H
 src/DiamondWithStar.java,e\7\e7bc81ffe060cfa53fe105d55c30e55dcd4f0fc1
 w
 G.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c,6\e\6e9644ddf83ab52f39902ecdbfdf4118285ac40c
-H
-src/PalindromNumber.java,3\9\39011888768507879a329c6823c404d9587cdfb1
 F
 src/CalculatorPro.java,0\1\010b713f8bbae39599b240bf67fdb3809b5aa5a7
 I
 src/FindPrimeNumbers.java,7\2\72a07d6880ff68db80a54db90ca806912ce1113a
+J
+src/ExponentialNumber.java,b\4\b4d18f7cc336ce5043087d31e6b4f4051440e042
+M
+src/PrimeNumberRecursive.java,f\0\f01985a761d741cc2725d86ec6117f6444354228
+R
+"src/StudentNoteSystem/Teacher.java,4\c\4ca9a16d4fcec5bb248398923a638b18b65ab3f2
+H
+src/boxGame/Fighter.java,c\f\cf8051671d730df30c2c42d5fd7e9c1dcbdb86a5
+E
+src/boxGame/Ring.java,8\7\8785d9fc641d8f25eb84f2cefc1f6be039c67f0d
+E
+src/boxGame/Main.java,2\8\28124e560b60ab7543a89272774c7fbdbbcaa3fa
+P
+ src/employeeSalary/Employee.java,c\7\c7d571e029db6c4490307101a6db4e7b9fab9efb
+L
+src/employeeSalary/Main.java,3\e\3e7a0407db483062ad8a2e0f92e0cacfbb1a0b09
