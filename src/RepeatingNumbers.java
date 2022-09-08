@@ -1,5 +1,5 @@
 public class RepeatingNumbers {
-    static boolean isFine(int[] arr, int value) {
+    static boolean isFind(int[] arr, int value) {
         for (int i : arr) {
             if (i == value) {
                 return true;
@@ -15,7 +15,7 @@ public class RepeatingNumbers {
         for (int i = 0; i < list.length; i++) {
             for (int j = 0; j < list.length; j++) {
                 if ((i != j) && (list[i] == list[j])) {
-                    if (!isFine(repeatNumbers, list[i])) {
+                    if (!isFind(repeatNumbers, list[i])) {
                         repeatNumbers[startIndex++] = list[i];
                     }
                     break;
