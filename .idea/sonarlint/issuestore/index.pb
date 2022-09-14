@@ -53,3 +53,27 @@ M
 src/minesweeperGame/Main.java,3\4\34a76c5870d8e9e05d08d96f6870a18d9b90f2fd
 H
 src/FibonacciSeries.java,f\e\fe9416e114400b212202072fe0774f1b52f5f03d
+N
+src/RepeatingArrayNumbers.java,8\3\83374056e5718e4e95b573b5e6c4fb92c8293008
+G
+src/html/HomeWork3.html,9\7\977b6eca668ea3751ac0f18479cddb9c5b182b5f
+G
+src/html/HomeWork2.html,8\e\8e6bf857a4af9611406dbbff4e1e1a2466b9ca52
+G
+src/html/HomeWork1.html,b\4\b41dc859bf1e48d91429a2d6ee5092d371d2cd79
+J
+src/MatrixToTranspose.java,1\6\16b202be4077048c4f86ba55a689b83761c2ba34
+M
+src/html/ChocolateRecipe.html,9\f\9f74ecfb3188491e3c50a547331e0536b0bdfe89
+O
+src/html/google_1998/google.css,d\0\d03a14d643e033f593e44ccf8ed256d77fc459ee
+^
+.src/html/google_homepage/.vscode/settings.json,b\c\bc8cbfebc603972133134ee60fab001be2199498
+V
+&src/html/google_homepage/css/style.css,2\1\213466bfa565f8ae91187df8ef2fddcd91e200bd
+w
+G.idea/sonarlint/issuestore/6/e/6e9644ddf83ab52f39902ecdbfdf4118285ac40c,4\2\4291a6ab95c696f29dcedea66516b99a0fd0f28a
+^
+.src/html/google_homepage/assets/appsbutton.svg,d\2\d2706286b9e0f8f051630474fec4d57a0d64f8e5
+P
+ src/html/google_1998/Google.html,a\d\ad0cbd9bb329b779d98085d1ec0ff0ce7ac43143

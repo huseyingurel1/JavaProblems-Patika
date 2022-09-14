@@ -1,0 +1,6 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò±µ’
+>	java:S108")Either remove or fill this block of code.(Ìþ¤¢
+M	java:S106"9Replace this use of System.out or System.err by a logger.(åÈ†V
+A
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù
