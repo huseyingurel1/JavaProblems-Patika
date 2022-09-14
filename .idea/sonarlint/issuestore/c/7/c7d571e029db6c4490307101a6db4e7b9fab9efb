@@ -1,0 +1,19 @@
+
+w
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "salaryTax".(Ó¸¿¯
+x
+java:S1488!"bImmediately return this expression instead of assigning it to the temporary variable "bonusHours".(—²î
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚…Á¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßÄÆÔ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ÖˆÖ¼
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(£ÚÃ¬üÿÿÿÿ8ıÛ–â°0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Ô´Ò¹ùÿÿÿÿ8ıÛ–â°0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ƒÅ¢8ıÛ–â°0
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(è›äÙ8ıÛ–â°0
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(‚¯ùÜ8şÛ–â°0
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(Ğú¢ù8şÛ–â°0
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(®äç¢úÿÿÿÿ8şÛ–â°0
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(’±«êüÿÿÿÿ8şÛ–â°0
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(ÉÂĞéøÿÿÿÿ8ÿÛ–â°0
+9
+java:S2225I"Return empty string instead.(¥¹ï8¨©â°0

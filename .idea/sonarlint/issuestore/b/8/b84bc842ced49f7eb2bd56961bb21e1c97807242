@@ -1,0 +1,55 @@
+
+l	java:S127H"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+Q
+java:S4973E"<Strings and Boxed types should be compared using "equals()".(àôêy
+R
+java:S4973l"<Strings and Boxed types should be compared using "equals()".(Ë¥®ˆ
+R
+java:S4973y"<Strings and Boxed types should be compared using "equals()".(Ð ®‡
+X
+java:S4973’"<Strings and Boxed types should be compared using "equals()".(´Žß¹ÿÿÿÿÿ
+X
+java:S4973ž"<Strings and Boxed types should be compared using "equals()".(´Žß¹ÿÿÿÿÿ
+X
+java:S4973ª"<Strings and Boxed types should be compared using "equals()".(´Žß¹ÿÿÿÿÿ
+X
+java:S4973µ"<Strings and Boxed types should be compared using "equals()".(´Žß¹ÿÿÿÿÿ
+X
+java:S4973Á"<Strings and Boxed types should be compared using "equals()".(´Žß¹ÿÿÿÿÿ
+X
+java:S4973Ï"<Strings and Boxed types should be compared using "equals()".(´Žß¹ÿÿÿÿÿ
+X
+java:S4973Ý"<Strings and Boxed types should be compared using "equals()".(´Žß¹ÿÿÿÿÿ
+X
+java:S4973ë"<Strings and Boxed types should be compared using "equals()".(´Žß¹ÿÿÿÿÿ
+X
+java:S4973ø"<Strings and Boxed types should be compared using "equals()".(´Žß¹ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ó¥Ô
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ó—ø‡ùÿÿÿÿ8Âÿ¤Ž±0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½É×®øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜Œ¸ó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½†Û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›žô¿
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÌŠ»úÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(µ²àÓþÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ÌŠ»úÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+9
+java:S2119@"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(åÓ±éøÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(†–ÇØüÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(þí¢ ùÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(‰©½Œ
+m
+java:S3776i"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ºá¹Ÿûÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(œÛ¤‘
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(ÌŠ»úÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(µË«úÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ÌŠ»úÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(•öñþÿÿÿÿ
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 99 to the 15 allowed.(Íþš®

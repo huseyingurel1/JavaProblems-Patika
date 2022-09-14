@@ -1,0 +1,42 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "SonuÃ§ : " 8 times.(ç¡¹éÿÿÿÿÿ8‡··¶°0
+f
+java:S1192"JDefine a constant instead of duplicating this literal ". sayÄ± :" 4 times.(ÎÊ½{8‡··¶°0
+z	java:S135)"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8‡··¶°0
+z	java:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(ı¤‘ùÿÿÿÿ8ˆ··¶°0
+`
+java:S1659"CDeclare "result" and all following declarations on a separate line.(€Ú¨8ã··¶°0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÊ½{8æ··¶°0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ç¡¹éÿÿÿÿÿ8ç··¶°0
+F
+java:S1659"$Declare "result" on a separate line.(¾â¼ÿÿÿÿÿ8ç··¶°0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»è°²üÿÿÿÿ8è··¶°0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—üÔØ8è··¶°0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ç¡¹éÿÿÿÿÿ8í··¶°0
+`
+java:S1659'"CDeclare "result" and all following declarations on a separate line.(Ş²ï¨8Œ¸·¶°0
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(ÎÊ½{8›¸·¶°0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ç¡¹éÿÿÿÿÿ8›¸·¶°0
+A
+java:S1659>"$Declare "result" on a separate line.(ôÿÂ8œ¸·¶°0
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(»è°²üÿÿÿÿ8ª¸·¶°0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(—üÔØ8º¸·¶°0
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(‚æšÆıÿÿÿÿ8É¸·¶°0
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ç¡¹éÿÿÿÿÿ8Ù¸·¶°0
+T	java:S106S"9Replace this use of System.out or System.err by a logger.(áä‹ 8Ú¸·¶°0
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(ÌˆŒˆüÿÿÿÿ8Ú¸·¶°0
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(ç¡¹éÿÿÿÿÿ8Ú¸·¶°0
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(±á§òøÿÿÿÿ8Û¸·¶°0
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(ç¡¹éÿÿÿÿÿ8Û¸·¶°0
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ê‹¿üÿÿÿÿ8Ü¸·¶°0
+U	java:S106q"9Replace this use of System.out or System.err by a logger.( ºêÄ8Ş¸·¶°0
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(ç¡¹éÿÿÿÿÿ8ïÄÔ¶°0
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(ê‹¿üÿÿÿÿ8ğÄÔ¶°0
+U	java:S106|"9Replace this use of System.out or System.err by a logger.( ºêÄ8ğÄÔ¶°0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ç¡¹éÿÿÿÿÿ8ñÄÔ¶°0
+U
+java:S6126‡"2Replace this String concatenation with Text block.(¬ºù²üÿÿÿÿ8Ü¸·¶°0
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(©Ñÿ¶ùÿÿÿÿ8Ù¯Ş¶°0
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(±ê–ƒ8Âÿâ¶°0
+V	java:S106±"9Replace this use of System.out or System.err by a logger.(™ÂÙé8Ãÿâ¶°0
